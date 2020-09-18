@@ -1,0 +1,7 @@
+name: "My hello action"
+
+description: "Say hello with GitHub Actions"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
